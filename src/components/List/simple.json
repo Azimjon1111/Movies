@@ -1,0 +1,699 @@
+{
+    "code": 200,
+    "message": "Ок!",
+    "language": "ru",
+    "subscription_status": "buy",
+    "need_update": false,
+    "operator_id": 1,
+    "traffic": true,
+    "data": {
+    "items_per_page": 18,
+    "total_items": 22557,
+    "movies": [
+    {
+    "id": 57893,
+    "title": "Клон",
+    "year": 2001,
+    "label": "iTV",
+    "rates": {
+    "imdb": 8.1,
+    "kinopoisk": 7.446,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/30/524915d5271ebe4f09afb001750aae49-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 9,
+    "title": "Бразилия"
+    }
+    ],
+    "genres": [
+    {
+    "id": 9,
+    "title": "Драма"
+    },
+    {
+    "id": 15,
+    "title": "Мелодрама"
+    },
+    {
+    "id": 32,
+    "title": "Фантастика"
+    }
+    ]
+    },
+    {
+    "id": 57894,
+    "title": "Страна джунглей",
+    "year": 2019,
+    "label": "iTV",
+    "rates": {
+    "imdb": 6.2,
+    "kinopoisk": 6.266,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": false
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/30/e4ae936d7802d42cb05ab8e46c041a46-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 10,
+    "title": "Великобритания"
+    },
+    {
+    "id": 47,
+    "title": "США"
+    }
+    ],
+    "genres": [
+    {
+    "id": 9,
+    "title": "Драма"
+    }
+    ]
+    },
+    {
+    "id": 57892,
+    "title": "Похищенный",
+    "year": 2002,
+    "label": "iTV",
+    "rates": {
+    "imdb": 7.9,
+    "kinopoisk": 7.552,
+    "itv": null
+    },
+    "params": {
+    "is_hd": false,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/30/37821324fc4c91e76284df5f9588f1f3-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 47,
+    "title": "США"
+    }
+    ],
+    "genres": [
+    {
+    "id": 6,
+    "title": "Детектив"
+    },
+    {
+    "id": 9,
+    "title": "Драма"
+    },
+    {
+    "id": 30,
+    "title": "Триллер"
+    },
+    {
+    "id": 32,
+    "title": "Фантастика"
+    }
+    ]
+    },
+    {
+    "id": 57671,
+    "title": "Мур-Мур",
+    "year": 2021,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/23/5f3f4af08eb923418719fe8606f5996f-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 43,
+    "title": "Россия"
+    }
+    ],
+    "genres": [
+    {
+    "id": 6,
+    "title": "Детектив"
+    },
+    {
+    "id": 9,
+    "title": "Драма"
+    },
+    {
+    "id": 11,
+    "title": "История"
+    }
+    ]
+    },
+    {
+    "id": 57891,
+    "title": "Кооперация",
+    "year": 2017,
+    "label": "iTV",
+    "rates": {
+    "imdb": 6.6,
+    "kinopoisk": 6.366,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": false
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/30/ce558846fcb8df541c5dfefb6e6e4836-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 27,
+    "title": "Корея Южная"
+    }
+    ],
+    "genres": [
+    {
+    "id": 3,
+    "title": "Боевик"
+    },
+    {
+    "id": 12,
+    "title": "Комедия"
+    },
+    {
+    "id": 14,
+    "title": "Криминал"
+    }
+    ]
+    },
+    {
+    "id": 57520,
+    "title": "Крутая недвижимость",
+    "year": 2021,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/17/e105afc44b4ce41338b75b567d663f39-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 27,
+    "title": "Корея Южная"
+    }
+    ],
+    "genres": [
+    {
+    "id": 6,
+    "title": "Детектив"
+    },
+    {
+    "id": 33,
+    "title": "Фэнтези"
+    }
+    ]
+    },
+    {
+    "id": 57886,
+    "title": "Любить до смерти",
+    "year": 2018,
+    "label": "iTV",
+    "rates": {
+    "imdb": 8.7,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/29/b1e1a50859ae3eebf7644e76bdf196c7-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 34,
+    "title": "Мексика"
+    }
+    ],
+    "genres": [
+    {
+    "id": 9,
+    "title": "Драма"
+    }
+    ]
+    },
+    {
+    "id": 53749,
+    "title": "Хозяин!",
+    "year": 2021,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/03/26/e3169088450cb6f8a71e7259bcecd7c6-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 27,
+    "title": "Корея Южная"
+    }
+    ],
+    "genres": [
+    {
+    "id": 12,
+    "title": "Комедия"
+    },
+    {
+    "id": 15,
+    "title": "Мелодрама"
+    }
+    ]
+    },
+    {
+    "id": 53734,
+    "title": "Сладкая кровь",
+    "year": 2021,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/03/25/ec57c6c2f8ec283a00be21948adfe30f-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 27,
+    "title": "Корея Южная"
+    }
+    ],
+    "genres": [
+    {
+    "id": 15,
+    "title": "Мелодрама"
+    },
+    {
+    "id": 33,
+    "title": "Фэнтези"
+    }
+    ]
+    },
+    {
+    "id": 10272,
+    "title": "На ножах",
+    "year": 2016,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2018/12/08/45d382a10a01bdc372e563635504a333-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 43,
+    "title": "Россия"
+    }
+    ],
+    "genres": [
+    {
+    "id": 56,
+    "title": "Тв-шоу"
+    }
+    ]
+    },
+    {
+    "id": 57623,
+    "title": "Чужие грехи",
+    "year": 2021,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": false,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/21/895b413d75664942fee3bd75d9e02e16-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 52,
+    "title": "Украина"
+    }
+    ],
+    "genres": [
+    {
+    "id": 15,
+    "title": "Мелодрама"
+    }
+    ]
+    },
+    {
+    "id": 57890,
+    "title": "Истребитель демонов: Поезд «Бесконечный»",
+    "year": 2020,
+    "label": "iTV",
+    "rates": {
+    "imdb": 8.4,
+    "kinopoisk": 8.125,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": false
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/30/0d73b510d9df3de2d3738ae902737c4e-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 60,
+    "title": "Япония"
+    }
+    ],
+    "genres": [
+    {
+    "id": 1,
+    "title": "Аниме"
+    },
+    {
+    "id": 3,
+    "title": "Боевик"
+    },
+    {
+    "id": 33,
+    "title": "Фэнтези"
+    }
+    ]
+    },
+    {
+    "id": 57889,
+    "title": "Сумасшедшая семейка",
+    "year": 2011,
+    "label": "iTV",
+    "rates": {
+    "imdb": 5.6,
+    "kinopoisk": 7.213,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": false
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/29/4be02bdc06309de2554117680b220ebf-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 19,
+    "title": "Индия"
+    }
+    ],
+    "genres": [
+    {
+    "id": 3,
+    "title": "Боевик"
+    },
+    {
+    "id": 9,
+    "title": "Драма"
+    },
+    {
+    "id": 12,
+    "title": "Комедия"
+    }
+    ]
+    },
+    {
+    "id": 57888,
+    "title": "НМДНИ",
+    "year": 2020,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/29/11e8cb99d21feb09ceabc1404a477f28-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 43,
+    "title": "Россия"
+    }
+    ],
+    "genres": [
+    {
+    "id": 8,
+    "title": "Документальный"
+    }
+    ]
+    },
+    {
+    "id": 57859,
+    "title": "Королева — это я",
+    "year": 2019,
+    "label": "iTV",
+    "rates": {
+    "imdb": 7.1,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/28/e6074f6264f8a3126aaf5df2a817ef7b-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 34,
+    "title": "Мексика"
+    }
+    ],
+    "genres": [
+    {
+    "id": 9,
+    "title": "Драма"
+    }
+    ]
+    },
+    {
+    "id": 57885,
+    "title": "Сумасшедшая семейка 2",
+    "year": 2013,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": false
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/04/29/3f6623697a62790c8eae90190116efc6-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 19,
+    "title": "Индия"
+    }
+    ],
+    "genres": [
+    {
+    "id": 3,
+    "title": "Боевик"
+    },
+    {
+    "id": 12,
+    "title": "Комедия"
+    }
+    ]
+    },
+    {
+    "id": 12431,
+    "title": "Судьба человека с Борисом Корчевниковым",
+    "year": 2017,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2018/12/07/d36d451ea54b1ad28802d2c62e2328c5-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 43,
+    "title": "Россия"
+    }
+    ],
+    "genres": [
+    {
+    "id": 8,
+    "title": "Документальный"
+    }
+    ]
+    },
+    {
+    "id": 45391,
+    "title": "Док-Ток",
+    "year": 2020,
+    "label": "iTV",
+    "rates": {
+    "imdb": null,
+    "kinopoisk": null,
+    "itv": null
+    },
+    "params": {
+    "is_hd": true,
+    "is_3d": false,
+    "is_4k": false,
+    "is_new": true,
+    "is_free": false,
+    "is_tvshow": true
+    },
+    "files": {
+    "poster_url": "https://files.itv.uz/uploads/content/poster/2021/02/19/c5170632a81ef70dead4246859051efe-q-350x501.jpeg"
+    },
+    "countries": [
+    {
+    "id": 43,
+    "title": "Россия"
+    }
+    ],
+    "genres": [
+    {
+    "id": 56,
+    "title": "Тв-шоу"
+    }
+    ]
+    }
+    ]
+    }
+    }
